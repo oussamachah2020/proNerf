@@ -1,0 +1,2 @@
+Manifest: https://exp.host/@oussama212/nft_app Learn more.
+⚙️   Project page: https://expo.dev/@oussama212/nft_app?serviceType=classic&distribution=expo-go Learn more.
